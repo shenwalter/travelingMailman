@@ -1,2 +1,2 @@
 # travelingMailman
-MetroHacks II May 2017 Hackathon project, Alek, Walter, and Ziyong.
+MetroHacks II May 2017 Hackathon Project | by Alek, Walter, and Ziyong.
